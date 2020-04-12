@@ -1,0 +1,13 @@
+Homework 8 Spring 2020
+
+As the COVID-19 epidemic sweeps the world, you have been asked as the data scientist to a large hospital draw up a proposal to implement a chatbot to answer patient questions.  
+Draw up a 5 minute pitch for a chatbot, the resources needed, the information you need, and any troubles you might encounter to present next week during class..
+Deliverables:
+A chatbot proposal—quick summary of methods
+Any further information you will need to accomplish the task
+Forseen hurdles:  What problems do you anticipate that need to be solved.
+
+(The imaginary timeline would be ASAP—your poor hospital staff is being overwhelmed by callers!)
+
+You will present your proposal in class.
+Order will be drawn at random
